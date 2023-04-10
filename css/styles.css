@@ -1,0 +1,18 @@
+/*  Selector 
+{
+    Propiedad: valor;
+} 
+*/
+
+    
+h1{
+    border-top: solid 5px color black;
+    border-right: dashed 8px color violet ;
+    border-bottom: solid 10px color gray ;
+}
+h2{ /* Selector global */
+    color: red;
+    font-size: 45px;
+    background-color: aquamarine;
+}
+
